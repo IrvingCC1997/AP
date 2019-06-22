@@ -1,0 +1,24 @@
+[33mcommit d71b560af54d136f94347242a57f30d5d05f120c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: da6e5cc 7e1b71e
+Author: albertoleonm <albertoleonm21@gmail.com>
+Date:   Fri Jun 21 20:14:16 2019 -0500
+
+    Se agrega documento faltante
+
+[33mcommit 7e1b71e978d34dddfbe07996a896e5a7d582181f[m[33m ([m[1;32mleon[m[33m)[m
+Author: albertoleonm <albertoleonm21@gmail.com>
+Date:   Thu Jun 20 22:28:12 2019 -0500
+
+    Agregamos 5 presentaciones
+
+[33mcommit da6e5cc7a52099fd91343e4def26b55449bdbc8d[m
+Author: albertoleonm <albertoleonm21@gmail.com>
+Date:   Thu Jun 20 22:21:41 2019 -0500
+
+    Agregamos 5 exposiciones a la carpeta Anexos
+
+[33mcommit 568e52cf3c17dd7e0e58b154092ed0666bcc9e32[m[33m ([m[1;31morigin/leon[m[33m, [m[1;31morigin/lalo[m[33m, [m[1;31morigin/joana[m[33m, [m[1;31morigin/irving[m[33m)[m
+Author: albertoleonm <albertoleonm21@gmail.com>
+Date:   Wed Jun 19 14:03:24 2019 -0500
+
+    Iniciamos el proyecto y agregamos README
